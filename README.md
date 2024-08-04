@@ -1,2 +1,3 @@
 # LeetCode_SQL50
-Basic to Intermediate SQL Topics 50 Essential SQL Questions.
+50 Essential SQL Questions from Basic to Intermediate SQL Topics.
+1. (1757. Recyclable and Low Fat Products)
