@@ -15,3 +15,7 @@
 1. **(1378. Replace Employee ID With The Unique Identifier) - Easy**
 2. **(1068. Product Sales Analysis I) - Easy**
 3. **(1581. Customer Who Visited but Did Not Make Any Transactions) - Easy**
+4. **(197. Rising Temperature) - Easy**
+5. **(1661. Average Time of Process per Machine ) - Easy**
+   
+
