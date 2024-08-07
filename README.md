@@ -16,6 +16,8 @@
 2. **(1068. Product Sales Analysis I) - Easy**
 3. **(1581. Customer Who Visited but Did Not Make Any Transactions) - Easy**
 4. **(197. Rising Temperature) - Easy**
-5. **(1661. Average Time of Process per Machine ) - Easy**
+5. **(1661. Average Time of Process per Machine) - Easy**
+6. **(577. Employee Bonus) - Easy**
+7. **(1280. Students and Examinations) - Easy**
    
 
