@@ -40,7 +40,3 @@ Weather table:
 
 - On **2015-01-02**, the temperature increased from 10 to 25 compared to **2015-01-01**.
 - On **2015-01-04**, the temperature increased from 20 to 30 compared to **2015-01-03**.
-
-## Solution Approach
-
-To solve this problem, you can use a SQL query that compares the temperature of each record with the temperature of the previous day. The result should include the `id` of the records where the temperature is higher than the previous day.
