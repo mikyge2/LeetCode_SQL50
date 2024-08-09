@@ -13,7 +13,7 @@
 ## Topic: Basic Joins
 
 1. **(1378. Replace Employee ID With The Unique Identifier) - Easy**
-2. **(1068. Product Sales Analysis I) - Easy**
+2. **[(1068. Product Sales Analysis I) - Easy] (https://github.com/mikyge2/LeetCode_SQL50/tree/main/1068.%20Product%20Sales%20Analysis%20I)**
 3. **(1581. Customer Who Visited but Did Not Make Any Transactions) - Easy**
 4. **(197. Rising Temperature) - Easy**
 5. **(1661. Average Time of Process per Machine) - Easy**
