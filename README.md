@@ -14,10 +14,10 @@
 
 1. [1378. Replace Employee ID With The Unique Identifier - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier)
 2. [1068. Product Sales Analysis I - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/1068.%20Product%20Sales%20Analysis%20I)
-3. [1581. Customer Who Visited but Did Not Make Any Transactions - Easy] (https://github.com/mikyge2/LeetCode_SQL50/tree/main/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions)
-4. [197. Rising Temperature - Easy] (https://github.com/mikyge2/LeetCode_SQL50/tree/main/197.%20Rising%20Temperature)
-5. [1661. Average Time of Process per Machine - Easy] (https://github.com/mikyge2/LeetCode_SQL50/tree/main/1661.%20Average%20Time%20of%20Process%20per%20Machine)
-6. [577. Employee Bonus - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/577.%20Employee%20Bonus)
-7. [1280. Students and Examinations - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/1280.%20Students%20and%20Examinations)
+3. [1581. Customer Who Visited but Did Not Make Any Transactions - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions)
+5. [197. Rising Temperature - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/197.%20Rising%20Temperature)
+6. [1661. Average Time of Process per Machine - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/1661.%20Average%20Time%20of%20Process%20per%20Machine)
+7. [577. Employee Bonus - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/577.%20Employee%20Bonus)
+8. [1280. Students and Examinations - Easy](https://github.com/mikyge2/LeetCode_SQL50/tree/main/1280.%20Students%20and%20Examinations)
    
 
